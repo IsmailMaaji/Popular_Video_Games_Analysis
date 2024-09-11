@@ -79,7 +79,7 @@ Additionally, Excel was used for more manual data transformations before uploadi
 
 ## Visualization 
 
-
+![image](https://github.com/IsmailMaaji/Popular_Video_Games_Analysis/blob/42020a1e0e6576e0404dd65266d9c6bc8b0218fe/images/Screenshot%202024-09-11%20165632.png)
 
 
 ## License
